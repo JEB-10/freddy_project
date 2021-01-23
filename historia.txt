@@ -1,9 +1,5 @@
-Esta es la historia de Freddy Vega
+Esta es la historia de Freddy Vega --> Cabrón
 
-Freddy Vega tiene 32 años y nació en Colombia
+Freddy Vega tiene 34 años y nació en Colombia --> Cabrón
 
-Mañana nos enfocaremos en su vida laboral
-
-Linea de prueba_1 commit 7
-
-Linea de prueba_2 commit 8
+Mañana nos enfocaremos en su vida laboral --> Es un puto Cabrón
