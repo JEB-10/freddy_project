@@ -2,4 +2,6 @@ Esta es la historia de Freddy Vega --> Puto cabrón
 
 Freddy Vega tiene 32 años y nació en Colombia --> Puto cabrón
 
+Ejemplo para usar el comando vim
+
 Mañana nos enfocaremos en su vida laboral --> Puto cabrón de mierda!
